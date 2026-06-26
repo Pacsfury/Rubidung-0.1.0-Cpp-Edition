@@ -4,7 +4,7 @@
 
 
 # Features
-**Rubidung** is a dungeon memory game, memory-based.
+**Rubidung** is a dungeon game, memory-based.
 
 
 When the game starts, the map is shown. Diferent tiles mean different things:
