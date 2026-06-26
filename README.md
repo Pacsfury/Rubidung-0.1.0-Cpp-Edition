@@ -7,7 +7,7 @@
 **Rubidung** is a dungeon game, memory-based.
 
 
-When the game starts, the map is shown. Diferent tiles mean different things:
+When the game starts, the map is shown. Different tiles mean different things:
 
 
 | **Symbol** | **Meaning**                |
@@ -19,10 +19,10 @@ When the game starts, the map is shown. Diferent tiles mean different things:
 |**O**       |A wall, without spikes!     |
 
 
-When the first command is inputted, the map hides, and your only help is your memory.
+When the first command is entered, the map hides, and your only help is your memory.
 
 
-Actual commands are:
+Currently available commands are:
 
 
 - **W**: Move up
@@ -31,7 +31,7 @@ Actual commands are:
 - **D**: Move right
 
 
-If the correct sequence is inputted, the game halts and you win, but if you do more turns than maximum, you lose!
+If the correct sequence is entered, the game halts and you win, but if you do more turns than maximum, you lose!
 
 
 ## Updates Log
@@ -42,9 +42,9 @@ If the correct sequence is inputted, the game halts and you win, but if you do m
 
 ## Known Bugs
 
-- Level 1 repeats
-- Maps should be `static`
-- Escape ANSI code for clearing screen
+- [] Level 1 repeats
+- [] Maps should be `static`
+- [] Escape ANSI code for clearing screen
 
 
 
